@@ -1,4 +1,4 @@
-# URLextractor
+#web-url-analyzer
 
 Information gathering & website reconnaissance
 ------
@@ -81,3 +81,6 @@ Todo list:
 * [ ] Integration with other APIs
 * [ ] Export to CSV
 * [ ] Integration with CipherScan
+
+contact: https://alokkumar.vercel.app/
+mail: alokkumar82473@gmail.com
