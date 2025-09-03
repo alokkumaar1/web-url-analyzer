@@ -5,7 +5,7 @@ Information gathering & website reconnaissance
 
 
 **Tips:**
-* Colorex: put colors to the ouput `pip install colorex` and use it like `./extractor http://www.hackthissite.org/ | colorex -g "INFO" -r "ALERT"`
+* Colorex: put colors to the ouput `pip install colorex` and use it like `./extractor | colorex -g "INFO" -r "ALERT"`
 * Tldextract: is used by dnsenumeration function `pip install tldextract`
 
 Features:
